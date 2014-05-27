@@ -13,3 +13,10 @@ Süleyman Demirel Üniversitesinde yaptığım Qt sunumudur.
 * Komut satırından;
  * qmlscene qt-presentation.qml
 
+
+Video
+-----
+Sunumdaki eksik videoları aşağıdaki adresten alıp dönüştürmeniz gerekiyor;
+
+* bunny : http://www.bigbuckbunny.org/index.php/download/
+* Qt5EveryWhereDemo : http://www.youtube.com/watch?v=-SJh3Xy2QKI
