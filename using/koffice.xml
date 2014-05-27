@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:flickr="urn:flickr:user"
+      xmlns:media="http://search.yahoo.com/mrss/">
+ <entry>
+  <title></title>
+  <src>using/koffice 1 screenshot.png</src>
+  <tmb>using/koffice 1 screenshot_thumb.png</tmb>
+  <w>1226</w>
+  <h>800</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/koffice 2 maemo1.png</src>
+  <tmb>using/koffice 2 maemo1_thumb.png</tmb>
+  <w>800</w>
+  <h>480</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/koffice 3 screenshot.png</src>
+  <tmb>using/koffice 3 screenshot_thumb.png</tmb>
+  <w>1188</w>
+  <h>664</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/koffice 4 docker.png</src>
+  <tmb>using/koffice 4 docker_thumb.png</tmb>
+  <w>1280</w>
+  <h>800</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/koffice 6 kpresenter.png</src>
+  <tmb>using/koffice 6 kpresenter_thumb.png</tmb>
+  <w>1400</w>
+  <h>1001</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/koffice 7 kspreadplastique.png</src>
+  <tmb>using/koffice 7 kspreadplastique_thumb.png</tmb>
+  <w>979</w>
+  <h>675</h>
+ </entry>
+</feed>

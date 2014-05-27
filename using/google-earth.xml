@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:flickr="urn:flickr:user"
+      xmlns:media="http://search.yahoo.com/mrss/">
+ <entry>
+  <title></title>
+  <src>using/Google_Earth.png</src>
+  <tmb>using/Google_Earth_thumb.png</tmb>
+  <w>550</w>
+  <h>285</h>
+ </entry>
+</feed>

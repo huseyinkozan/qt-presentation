@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:flickr="urn:flickr:user"
+      xmlns:media="http://search.yahoo.com/mrss/">
+ <entry>
+  <title></title>
+  <src>using/kde 1 desktop.png</src>
+  <tmb>using/kde 1 desktop_thumb.png</tmb>
+  <w>800</w>
+  <h>500</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/kde 2 katesessions.png</src>
+  <tmb>using/kde 2 katesessions_thumb.png</tmb>
+  <w>800</w>
+  <h>600</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/kde 3 killbots.png</src>
+  <tmb>using/kde 3 killbots_thumb.png</tmb>
+  <w>800</w>
+  <h>496</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/kde 4 kwinpresentwindows.png</src>
+  <tmb>using/kde 4 kwinpresentwindows_thumb.png</tmb>
+  <w>800</w>
+  <h>600</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/kde 6 plasmaotherwidgets.png</src>
+  <tmb>using/kde 6 plasmaotherwidgets_thumb.png</tmb>
+  <w>800</w>
+  <h>480</h>
+ </entry>
+</feed>

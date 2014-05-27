@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:flickr="urn:flickr:user"
+      xmlns:media="http://search.yahoo.com/mrss/">
+ <entry>
+  <title></title>
+  <src>using/VLC_Qt_1.jpeg</src>
+  <tmb>using/VLC_Qt_1_thumb.jpeg</tmb>
+  <w>1141</w>
+  <h>904</h>
+ </entry>
+ <entry>
+  <title></title>
+  <src>using/VLC_Qt_2.jpeg</src>
+  <tmb>using/VLC_Qt_2_thumb.jpeg</tmb>
+  <w>1088</w>
+  <h>797</h>
+ </entry>
+</feed>
