@@ -3,6 +3,9 @@ qt-presentation
 
 Süleyman Demirel Üniversitesinde yaptığım Qt sunumudur.
 
+Detaylı bilgi için; 
+http://huseyinkozan.com.tr/qt-sunumu
+
 
 Çalıştırmak için
 ----------------
